@@ -15,7 +15,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 1. Install Claude Code:
 
 ```sh
-npm install -g @anthropic-ai/claude-code
+pnpm add --global @anthropic-ai/claude-code
 ```
 
 2. Navigate to your project directory and run `claude`.

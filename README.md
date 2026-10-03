@@ -46,3 +46,7 @@ restored-src/src/
 - 源码版权归 [Anthropic](https://www.anthropic.com) 所有
 - 本仓库仅用于技术研究与学习，请勿用于商业用途
 - 如有侵权，请联系删除
+
+## Dependency management
+
+The archived package uses pnpm 10.34.6. Install its optional platform binaries with `pnpm --dir package install --frozen-lockfile --ignore-scripts`; the install flag leaves the package's direct-publishing protection unchanged. Bun remains the runtime for restoration scripts.

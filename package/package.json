@@ -29,5 +29,6 @@
     "@img/sharp-linuxmusl-x64": "^0.34.2",
     "@img/sharp-win32-arm64": "^0.34.2",
     "@img/sharp-win32-x64": "^0.34.2"
-  }
+  },
+  "packageManager": "pnpm@10.34.6"
 }
